@@ -4,18 +4,23 @@ As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E a
 
 🛠 Tools that I use:
 
-- ![image](https://github.com/user-attachments/assets/bd0a8c13-0d3a-44cf-81bb-f5bbfb1f9075)![image](https://github.com/user-attachments/assets/e0a619b4-2da5-434e-9c20-461b6ff8be5a) ![image](https://github.com/user-attachments/assets/3afbfc01-3b1c-4fc6-8492-a143139771b0) ![image](https://github.com/user-attachments/assets/55630e9c-4bf8-4db7-81cf-8b3a0ebf5d5b)
-- ![image](https://github.com/user-attachments/assets/80cb94fe-f610-4071-8f84-a78ec9cd0e7c) ![image](https://github.com/user-attachments/assets/577aa9d3-34a4-4171-bc84-739b9e0fb40b)
-   Appium   Gatling
-- Extent Reports   Allure Reports
-- Visual Studio Code   IntelliJ IDEA
-- MySQL   MS SQL Server
-- Git   GitHub
-- TestNG   JUnit
-- DevTools   JMeter
-- Java   Spring   JDBC
+- ![image](https://github.com/user-attachments/assets/bd0a8c13-0d3a-44cf-81bb-f5bbfb1f9075) ![image](https://github.com/user-attachments/assets/a4007a2b-f4e5-402d-9923-1865066e3dcd)
+ ![image](https://github.com/user-attachments/assets/0bf6ad9e-af7e-45f5-a5a5-bda51ae9a36f)![image](https://github.com/user-attachments/assets/6f1a4484-4025-4129-8a35-987285547232)
 
-Connect with me
-![image](https://github.com/user-attachments/assets/0b5dcad3-eeef-4926-abbd-9898496e6514)
+
+- ![image](https://github.com/user-attachments/assets/e314f1c5-924e-4c5e-b812-eeada138f598) ![image](https://github.com/user-attachments/assets/efcf5684-46fd-47be-bf76-0ad507b5c9f6) ![image](https://img.shields.io/badge/Gatling-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![image](https://img.shields.io/badge/Appium-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![image](https://img.shields.io/badge/Rest_Assured-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![image](https://img.shields.io/badge/Carina-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+
+-  ![image](https://github.com/user-attachments/assets/bcd542a8-388e-42fe-a16e-c7ff67af3890) ![image](https://github.com/user-attachments/assets/da0cec59-4437-4629-a1c1-b082dee02e9c)
+  
+- ![image](https://github.com/user-attachments/assets/91d85949-61da-4f82-a816-ebc5c40cf8e5)![image](https://github.com/user-attachments/assets/4e094c08-b213-421d-bd15-d5a9ca0f381b)
+
+- ![image](https://img.shields.io/badge/TestNG-666666?style=for-the-badge&logo=microsoft&logoColor=white)  ![image](https://github.com/user-attachments/assets/2d0ffdcc-5173-4abf-8ff4-662704d1505a)
+
+- ![image](https://img.shields.io/badge/Devtools-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)  ![image](https://img.shields.io/badge/JMeter-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+- ![image](https://img.shields.io/badge/Java-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+ - **Connect with me here**<br>
+[![LinkedIn](https://github.com/user-attachments/assets/0b5dcad3-eeef-4926-abbd-9898496e6514)](www.linkedin.com/in/alex-buda)
 
 
