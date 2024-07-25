@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello 👋 Alex here!
 
-<!--
-**aleksanderbuda/aleksanderbuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an aspiring QA Automation Engineer, I am passionate about software quality and test automation. I have a strong foundation in manual testing and am actively developing my skills in automation.
 
-Here are some ideas to get you started:
+## 🛠 Tools and Technologies I'm Learning and Using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Testing Frameworks and Tools:
+- Selenium WebDriver
+- Appium
+- Carina
+- Gatling
+- REST Assured
+- TestNG
+- JUnit
+- Java
+- SQL
+- Postman
+- Git
+- GitHub
+- Jenkins 
+- Jira
+- Allure Reports
+- JMeter
+- IntelliJ IDEA
+- Visual Studio Code
+- DevTools
+- Docker
+- Maven
+
+
+## 📫 Connect with me:
