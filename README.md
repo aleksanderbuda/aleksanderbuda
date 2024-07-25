@@ -26,6 +26,6 @@ As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E a
 
 
  - **Connect with me here**<br>
-[![LinkedIn](https://github.com/user-attachments/assets/0b5dcad3-eeef-4926-abbd-9898496e6514)](www.linkedin.com/in/alex-buda)
+[LinkedIn](www.linkedin.com/in/alex-buda)
 
 
