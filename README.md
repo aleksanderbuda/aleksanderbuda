@@ -12,7 +12,12 @@ As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E a
 
 -  ![image](https://github.com/user-attachments/assets/bcd542a8-388e-42fe-a16e-c7ff67af3890) ![image](https://github.com/user-attachments/assets/da0cec59-4437-4629-a1c1-b082dee02e9c)
   
-- ![image](https://github.com/user-attachments/assets/91d85949-61da-4f82-a816-ebc5c40cf8e5)![image](https://github.com/user-attachments/assets/4e094c08-b213-421d-bd15-d5a9ca0f381b)
+-  ![image](https://github.com/user-attachments/assets/2ccc939f-ad46-4b9b-9273-c3a5c2d4e3a4) ![image](https://github.com/user-attachments/assets/c71e9f1a-98c4-4b53-be6f-7e337a70ce65)
+
+
+  
+- ![image](https://github.com/user-attachments/assets/91d85949-61da-4f82-a816-ebc5c40cf8e5)![image](https://github.com/user-attachments/assets/4e094c08-b213-421d-bd15-d5a9ca0f381b) ![image](https://github.com/user-attachments/assets/930b55f1-8e96-43e1-a2e1-0123e8782e35)
+
 
 - ![image](https://img.shields.io/badge/TestNG-666666?style=for-the-badge&logo=microsoft&logoColor=white)  ![image](https://github.com/user-attachments/assets/2d0ffdcc-5173-4abf-8ff4-662704d1505a)
 
