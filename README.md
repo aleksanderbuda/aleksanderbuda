@@ -1,8 +1,9 @@
 # Hello 👋 I'm Alex
 
-As an aspiring QA Automation Engineer, I am developing proficiency in both E2E and API testing, along with studying for the ISTQB certification. I am building comprehensive knowledge of software architecture and gaining hands-on experience in test automation. My growing foundation in object-oriented programming, technical skills, and effective communication makes me a promising asset to any project.
+As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E and API testing, while building a strong foundation in software architecture and test automation. My growing technical skills, analytical abilities, and passion for continuous learning position me to contribute effectively to software quality assurance processes.
 
 🛠 Tools that I use:
+![image](https://github.com/user-attachments/assets/7466ec49-ca08-4a82-bcf3-8f147a3dceda)
 
 - Azure DevOps   Jenkins   Docker   Gradle   Maven
 - Postman   cURL   Selenium   Appium   Gatling
