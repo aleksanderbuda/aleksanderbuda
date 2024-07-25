@@ -1,31 +1,18 @@
-# Hello 👋 Alex here!
+# Hello 👋 I'm Alex
 
-As an aspiring QA Automation Engineer, I am passionate about software quality and test automation. I have a strong foundation in manual testing and am actively developing my skills in automation.
+As an aspiring QA Automation Engineer, I am developing proficiency in both E2E and API testing, along with studying for the ISTQB certification. I am building comprehensive knowledge of software architecture and gaining hands-on experience in test automation. My growing foundation in object-oriented programming, technical skills, and effective communication makes me a promising asset to any project.
 
-## 🛠 Tools and Technologies I'm Learning and Using:
+🛠 Tools that I use:
 
-### Testing Frameworks and Tools:
-- Selenium WebDriver
-- Appium
-- Carina
-- Gatling
-- REST Assured
-- TestNG
-- JUnit
-- Java
-- SQL
-- Postman
-- Git
-- GitHub
-- Jenkins 
-- Jira
-- Allure Reports
-- JMeter
-- IntelliJ IDEA
-- Visual Studio Code
-- DevTools
-- Docker
-- Maven
+- Azure DevOps   Jenkins   Docker   Gradle   Maven
+- Postman   cURL   Selenium   Appium   Gatling
+- Extent Reports   Allure Reports
+- Visual Studio Code   IntelliJ IDEA
+- MySQL   MS SQL Server
+- Git   GitHub
+- TestNG   JUnit
+- DevTools   JMeter
+- Java   Spring   JDBC
 
-
-## 📫 Connect with me:
+Connect with me
+[Add your social media or professional network links here]
