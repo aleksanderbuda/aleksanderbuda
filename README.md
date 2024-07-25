@@ -3,9 +3,9 @@
 As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E and API testing, while building a strong foundation in software architecture and test automation. My growing technical skills, analytical abilities, and passion for continuous learning position me to contribute effectively to software quality assurance processes.
 
 🛠 Tools that I use:
-![image](https://github.com/user-attachments/assets/7466ec49-ca08-4a82-bcf3-8f147a3dceda)
 
-- Azure DevOps   Jenkins   Docker   Gradle   Maven
+- ![image](https://github.com/user-attachments/assets/e0a619b4-2da5-434e-9c20-461b6ff8be5a) ![image](https://github.com/user-attachments/assets/3afbfc01-3b1c-4fc6-8492-a143139771b0) ![image](https://github.com/user-attachments/assets/55630e9c-4bf8-4db7-81cf-8b3a0ebf5d5b)
+  Jenkins   Docker   Gradle   Maven
 - Postman   cURL   Selenium   Appium   Gatling
 - Extent Reports   Allure Reports
 - Visual Studio Code   IntelliJ IDEA
@@ -16,4 +16,4 @@ As an aspiring QA Automation Engineer, I'm rapidly developing expertise in E2E a
 - Java   Spring   JDBC
 
 Connect with me
-[Add your social media or professional network links here]
+
